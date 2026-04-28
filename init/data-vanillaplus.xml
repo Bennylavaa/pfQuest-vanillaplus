@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <Include file="..\db\items-vanillaplus.lua"/>
+  <Include file="..\db\units-vanillaplus.lua"/>
+  <Include file="..\db\objects-vanillaplus.lua"/>
+  <Include file="..\db\refloot-vanillaplus.lua"/>
+  <Include file="..\db\quests-itemreq-vanillaplus.lua"/>
+  <Include file="..\db\quests-vanillaplus.lua"/>
+  <Include file="..\db\zones-vanillaplus.lua"/>
+  <Include file="..\db\minimap-vanillaplus.lua"/>
+  <Include file="..\db\areatrigger-vanillaplus.lua"/>
+  <Include file="..\db\meta-vanillaplus.lua"/>
+</Ui>

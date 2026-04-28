@@ -1,9 +1,16 @@
 ## Interface: 11200
-## Title: |cff33ffccpf|cffffffffQuest|cffaaaaaa [Vanilla Plus]
-## Author: Hawaiisa
-## Notes: pfQuest modifications for Vanilla+
-## Version: 1.22
+## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[Vanilla Plus DB]
+## Author: hawaiisa
+## Contributors: Bennylavaa
+## Notes: A Vanilla Plus DB extension for pfQuest
+## Version: 1.0.0
 ## Dependencies: pfQuest
-## SavedVariables: pfQuest_vplus
-# main
-pfQuest-vanillaplus.lua
+## SavedVariables: pfQuest_vanillapluscount
+
+init\data-vanillaplus.xml
+init\enUS-vanillaplus.xml
+
+overwrites.lua
+updatenotify.lua
+
+patchtable.lua
