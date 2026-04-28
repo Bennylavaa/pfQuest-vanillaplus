@@ -8,7 +8,7 @@ pfQuest-vanillaplus is dependant on pfQuest to work.
 
 1. Download the latest release **[pfQuest](https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-enUS.zip)**
 2. Unzip it and place the "pfQuest" folder into Wow-Directory\Interface\AddOns
-3. Download the latest release **[pfQuest-vanillaplus](https://github.com/Bennylavaa/pfQuest-vanillaplus/releases/latest/download/pfQuest-vanillaplus.zip)**
+3. Download the latest release **[pfQuest-vanillaplus](https://github.com/hawaiisa/pfQuest-vanillaplus/releases/latest/download/pfQuest-vanillaplus.zip)**
 4. Unzip it and place the "pfQuest-vanillaplus" folder into Wow-Directory\Interface\AddOns
 
 ## Contribute
